@@ -1,5 +1,5 @@
 # 🚢 toolship
-`toolship` is a small framework to containerize dev tools. It comes with a few tools ready to use, and you can easily add your own.
+`toolship` is a small framework to containerize dev tools. It comes with a few tools ready to use, and you can easily add your own. [Read more here](https://yann.pt/posts/a-more-secure-workstation/)
 
 ## Usage
 ```zsh
